@@ -1,0 +1,29 @@
+{
+    "data-karyawan": [
+        {
+            "id": 1557298991816,
+            "nama_karyawan": "Allen Saputra",
+            "jabatan": "Security",
+            "jenis_kelamin": "Laki-laki",
+            "tanggal_lahir": "1990-11-04"
+        }, {
+            "id" : 1537298993916,
+            "nama_karyawan": "Satria",
+            "jabatan" : "Marketing",
+            "jenis_kelamin" : "Laki-laki",
+            "tanggal_lahir": "1999-12-23"
+        }, {
+            "id": 1557298963816,
+            "nama_karyawan": "Putra Agung",
+            "jabatan": "Security",
+            "jenis_kelamin": "Laki-laki",
+            "tanggal_lahir": "1992-07-07"
+        }, {
+            "id": 1557298993816,
+            "nama_karyawan": "Raxione Cintiya",
+            "jabatan" : "Marketing",
+            "jenis_kelamin": "Perempuan",
+            "tanggal_lahir": "2000-03-12"
+        }
+    ]
+}

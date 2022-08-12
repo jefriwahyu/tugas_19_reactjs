@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1537298993916,
+      "nama_karyawan": "Satria",
+      "jabatan": "Marketing",
+      "jenis_kelamin": "Laki-laki",
+      "tanggal_lahir": "1999-12-23"
+    },
+    {
+      "id": 1660135023700,
+      "nama_karyawan": "Jefri Wahyu",
+      "jabatan": "Junior Web Developer",
+      "jenis_kelamin": "Laki-laki",
+      "tanggal_lahir": "2000-02-18"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
